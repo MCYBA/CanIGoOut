@@ -1,0 +1,6 @@
+const String HOME_SCREEN='/HOME_SCREEN';
+//const String RUNWAY_SERVER_URL='http://167.71.213.164:8545';
+const String RUNWAY_SERVER_URL='http://192.168.1.34:8545';
+//const String RUNWAY_SERVER_URL='http://192.168.43.74:8545';
+
+const int VERIFICATION_CODE_LENGTH = 6;

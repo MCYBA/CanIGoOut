@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "731795364274",
+    "firebase_url": "https://can-i-go-out.firebaseio.com",
+    "project_id": "can-i-go-out",
+    "storage_bucket": "can-i-go-out.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731795364274:android:b52fc1cc065efe683e2cab",
+        "android_client_info": {
+          "package_name": "can.i.go.out"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731795364274-8d7d283eecf887imc64bo46mrbbau8al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTphQX9g44m0fm_ZELBt6_5zQX2QVnksc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731795364274-8d7d283eecf887imc64bo46mrbbau8al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3163388180447485~5160622915"
+    }
+  ],
+  "configuration_version": "1"
+}
